@@ -1,8 +1,11 @@
+My renbow version color
+
 Green
 Red
 Yellow
-Violet
 Black
 White
-Green White
 Blue
+Rose
+Kaki
+Orange
